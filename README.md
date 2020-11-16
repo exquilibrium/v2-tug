@@ -1,2 +1,2 @@
 # vermintide-2-guide
-Vermintide 2 - The Unofficial Guide
+The Unofficial Guide for Vermintide 2
