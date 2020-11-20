@@ -1,1 +1,2 @@
-# Vermintide 2 - The Unofficial Guide
+# v2-tug (Vermintide 2 - The Unofficial Guide)
+This guide explains how Vermintide 2 works.
